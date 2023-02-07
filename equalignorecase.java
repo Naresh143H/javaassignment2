@@ -7,6 +7,6 @@ public class equalignorecase {
         System.out.println(s1.equalsIgnoreCase(s2));
         System.out.println(s1.equalsIgnoreCase(s3));
         System.out.println(s1.equalsIgnoreCase(s4));
-        
+
     }
 }
